@@ -51,6 +51,11 @@ Player will be bound to the designed area by a worldborder.
 
 Postconditions: The user does not enter out-of-bounds areas and is confined to the designed, expected areas.
 
+### Test Cases
+1. When the user opens the game and is met with the main menu, they can choose different options to play, edit settings and quit. - (**self-testing.**)
+2. When the user moves around the map, the objectives and path, as well as the interactable objects, are marked clearly, and the user explores a clear, linear area. - (**peer-testing.**)
+
+
 ### Non-Functional Requirements
 -   Performance - Game uses Unity features to ensure performance and optimisation (baking lighting, choosing not to instantiate and destroy objects, and instead reusing them). Additionally, design cleanliness and readability is sustained using Unity (prefabs, scriptableobjects, etc).
 
@@ -59,3 +64,20 @@ Postconditions: The user does not enter out-of-bounds areas and is confined to t
 -   Reliability
 
 -   Security - Data is saved securely.
+
+
+---
+##  Social, Ethical and Legal Issues
+
+***Target Audience Considerations***
+*Who will be using this experience? Are there any accessibility needs?*
+
+This program will be used for all users with access to a device **(PC)**. It might need interaction tutorials, but should be relatively understandable for most people. keybinds, menu options and UI will be **clearly labelled** to prevent confusion. Book-wise, the book could be difficult to understand without a prior understanding of some of the lore. Thus, it is important that the experience **displays the story clearly**, with **context** provided.
+
+
+
+**Potential Benefits**
+*How does the project positively impact users (e.g., encouraging reading, fostering discussion within the book’s fan community)?*
+
+**Potential Risks** 
+*Could the design exclude or misrepresent certain groups? Are there any themes from the book that might be sensitive to users?*
