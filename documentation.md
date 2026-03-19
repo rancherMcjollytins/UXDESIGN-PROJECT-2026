@@ -25,16 +25,37 @@ This program is an interactive video game experience where users will move aroun
 
 Player will use WASD or Arrow Keys to navigate a game object through a worldspace.
 
+Actors: User
+
+1. The User will press the WASD or arrow keys to move their object (front, left, back, right respectively) relative to the camera position.
+2. The camera will be rotated using the mouse to allow users to view different parts of the map, and the cameras rotation will be clamped in specific directions to ensure the program is not disorienting. The playerbody will only follow the rotation on 1 axis.
+
+Postconditions: The user has rotated the camera/playerbody to view other parts of the map and/or has navigated their character around the map.
+
 **Object/Book Interaction**
 
 Player will interact with items in the map by facing the camera towards the objects and interacting with a  key or clicking.
 
+1. The user will approach an interactible object and hover their camera over or around it.
+2. The user will interact by clicking or pressing E over the object to open the UI.
+3. The book UI will open and display a message/text entry about the books events, characters and other importance pieces of lore.
+4. The user can close the book and/or add it to a journal/list of entries to save it.
+
+Postconditions: The user has viewed the journal entry and has learned more about the information and lore of the site, and can review previous pieces of collected information.
 **World Boundaries**
 
 Player will be bound to the designed area by a worldborder.
 
+1. The user will enter an area of which there are no entries/areas intended for users to explore.
+2. The user will not be allowed to enter these areas through invisible barriers and/or unnavigable terrain.
+
+Postconditions: The user does not enter out-of-bounds areas and is confined to the designed, expected areas.
+
 ### Non-Functional Requirements
--   Performance   
--   Usability
+-   Performance - Game uses Unity features to ensure performance and optimisation (baking lighting, choosing not to instantiate and destroy objects, and instead reusing them). Additionally, design cleanliness and readability is sustained using Unity (prefabs, scriptableobjects, etc).
+
+-   Usability - Program is usable for different parties by giving clear instructions on gameplay, dynamic settings, etc.     
+
 -   Reliability
--   Security
+
+-   Security - Data is saved securely.
