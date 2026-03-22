@@ -69,15 +69,59 @@ Postconditions: The user does not enter out-of-bounds areas and is confined to t
 ---
 ##  Social, Ethical and Legal Issues
 
-***Target Audience Considerations***
+### Social
+***Target Audience Considerations*** -
 *Who will be using this experience? Are there any accessibility needs?*
 
-This program will be used for all users with access to a device **(PC)**. It might need interaction tutorials, but should be relatively understandable for most people. keybinds, menu options and UI will be **clearly labelled** to prevent confusion. Book-wise, the book could be difficult to understand without a prior understanding of some of the lore. Thus, it is important that the experience **displays the story clearly**, with **context** provided.
+- This program will be used for all users with access to a device **(PC)**. It might need interaction tutorials, but should be relatively understandable for most people. keybinds, menu options and UI will be **clearly labelled** to prevent confusion. Book-wise, the book could be difficult to understand without a prior understanding of some of the lore. Thus, it is important that the experience **displays the story clearly**, with **context** provided.
 
 
 
-**Potential Benefits**
+***Potential Benefits*** -
 *How does the project positively impact users (e.g., encouraging reading, fostering discussion within the book’s fan community)?*
 
-**Potential Risks** 
-*Could the design exclude or misrepresent certain groups? Are there any themes from the book that might be sensitive to users?*
+- This program can positively benefit users by encouraging reading amongst users and promoting interest in the epic-fantasy genre.
+
+***Potential Risks*** - *Could the design exclude or misrepresent certain groups? Are there any themes from the book that might be sensitive to users?*
+
+
+- A simplified or misinformed representation of the book may cause disagreement between the community. Additionally, the existence of different races, countries and aspects could be sensitive content to some users, and will need to be addressed in the program.
+
+### Ethical
+
+***User Data & Privacy***
+*Will the prototype collect user data? If so, how will it be handled responsibly?*
+
+- The prototype likely won't collect significant user data, but may save interactions/logs and data in the program. This should be optimised for users and easy to do.
+
+***Representation & Inclusion***
+*Does the project fairly represent characters, themes, or ideas from the book?*
+
+- As the book has characters and themes like race, conflict, and other sensitive topics, it is important it is fairly represented. Characters should be represented faithfully to the source material, and events/places should be explained concisely. This will ensure all users have an understanding of the lore, but can still learn more on their own.
+
+***Content Sensitivity***
+*Does the book contain controversial topics (e.g., violence, discrimination), and how will the prototype handle these responsibly?*
+
+- The book contains sensitive topics of racial conflict/discrimination, war and violence, obsessive behaviour/addiction, etc. To ensure all content of this manner is managed in a responsible and considerate way. This could include trigger warnings, context/explanations on the content and/or when it was written to give users and understanding of possible outdated ideas, etc.
+
+### Legal
+
+***Copyright & Intellectual Property:***
+
+*Are any book images, quotes, or fan content being used? If so, are they legally allowed under fair use or with permission?* I will likely use sources from the book, like cover art, quotes, etc. I may use some other sources like a community wiki for extra lore information, which I will have to credit in the program.
+
+
+
+*Will you create original assets, or do you need to credit external sources?*
+
+- While some assets may be original, I will likely use some free assets from the Unity asset store. I will credit all external asset sources, and follow terms and regulations applied to them by the creators.
+
+***Terms of Use***
+
+*If you were to launch this product, what legal regulations might apply? Have you investigated terms of use of the product?*
+
+https://www.copyright.org.au/
+
+https://smartcopying.edu.au/
+
+https://creativecommons.org/
