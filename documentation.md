@@ -125,3 +125,9 @@ https://www.copyright.org.au/
 https://smartcopying.edu.au/
 
 https://creativecommons.org/
+
+PMIs:
+
+|Plus|Minus|Implication|
+|:---:|:---:|:---:|
+|-----|-----|-----|
