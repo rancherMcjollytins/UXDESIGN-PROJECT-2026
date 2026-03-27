@@ -132,6 +132,7 @@ PMIs:
 |:---:|:---:|:---:|:---:|
 |Spotify|The Spotify UI is efficient for navigating between different pieces of music, lyrics, and more. It allows users to easily create playlists, change volume/output devices, etc.|Some features of the Spotify app (Like jams, Song Radio) are hidden behind tricky/unexplained inputs, like right clicking, difficult-to-distinguish symbols, and more.|It is important that I ensure efficient navigation between key functions of the program, but I must also allow guided/simple navigation to secondary features of the program.|
 |Riddle School|Riddle school's UI is a classic point and click, which is simplistic to navigate. It's puzzle based nature allows for an engaging and interactive user experience.|While a point-and-click is simple, the complexity of Riddle Schools puzzle elements can be off-putting and/or inaccessible to some users.|It is important to engage users in the experience with interactions that promote focus on the game, while still being relatively accessible for all users of different states.|
+||||
 
 
 
