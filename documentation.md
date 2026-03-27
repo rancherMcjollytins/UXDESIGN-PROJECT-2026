@@ -108,7 +108,9 @@ Postconditions: The user does not enter out-of-bounds areas and is confined to t
 
 ***Copyright & Intellectual Property:***
 
-*Are any book images, quotes, or fan content being used? If so, are they legally allowed under fair use or with permission?* I will likely use sources from the book, like cover art, quotes, etc. I may use some other sources like a community wiki for extra lore information, which I will have to credit in the program.
+*Are any book images, quotes, or fan content being used? If so, are they legally allowed under fair use or with permission?*
+
+- I will likely use sources from the book, like cover art, quotes, etc. I may use some other sources like a community wiki for extra lore information, which I will have to credit in the program.
 
 
 
@@ -126,16 +128,23 @@ https://smartcopying.edu.au/
 
 https://creativecommons.org/
 
-PMIs:
+## PMIs:
 
+### Existing UI PMI Chart
 |User Interface|Plus|Minus|Implication|
 |:---:|:---:|:---:|:---:|
 |Spotify|The Spotify UI is efficient for navigating between different pieces of music, lyrics, and more. It allows users to easily create playlists, change volume/output devices, etc.|Some features of the Spotify app (Like jams, Song Radio) are hidden behind tricky/unexplained inputs, like right clicking, difficult-to-distinguish symbols, and more.|It is important that I ensure efficient navigation between key functions of the program, but I must also allow guided/simple navigation to secondary features of the program.|
 |Riddle School|Riddle school's UI is a classic point and click, which is simplistic to navigate. It's puzzle based nature allows for an engaging and interactive user experience.|While a point-and-click is simple, the complexity of Riddle Schools puzzle elements can be off-putting and/or inaccessible to some users.|It is important to engage users in the experience with interactions that promote focus on the game, while still being relatively accessible for all users of different states.|
-||||
+|Google Classroom|Google classroom allows easy communication between teachers and students, navigable tabs for people to use, and exclusive interactables for teachers to manage classrooms/schoolwork. Simple, easy turn-in/grade system, tools for private communication and helpful features for teachers and students (e.g. quick links, AI/Plagiarism Check). It is integrated with other google tools.|Unfilterable stream, which can become difficult/strenuous to find specific posts in if there's an abundance of messages. Classwork can be hidden behind (topic) filters and students can miss work easily.|A good UI is one that allows for interaction easily between all parties, and intuitive shortcuts for tedious tasks. Although it is important to make sure the UI is not overly complex and/or dynamic in specific circumstances (too prevent confusion), it is also important to not make it too simple and repetitive to make sure users do not get frustrated with inefficient navigation.|
 
-
+### Software Options
+|Software Option|Plus|Minus|Implication|
+|:-------------:|:--:|:---:|:---------:|
+|Unity|Unity is a game engine that utilises the high-level programming language C#. It has a variety of tools for game development that'd be perfectly suited for my program (like the UI Toolkit, Unity Asset Store, Terrain landscaper, etc.). It can be used for both 3D and 2D games.|Unity is sometimes difficult to navigate, with the editor and UI being difficult enough to require significant time to learn, and become familiar with. It is easy to miss important features of Unity, thus leading to lesser functionality, more bugs, and less optimisation. Unity has less capability for some aspects of game design (like graphics), especially compared to other engines like Unreal Engine 5|I will likely use Unity for its 3D or 2D Engine, which I have used before for other tasks in the past. Additionally, the Free Assets in the Unity Asset Store will be invaluable for saving time and effort on making custom models.|
+|GameMaker|Gamemaker uses GML, which is it's custom programming language. It has a navigable game engine interface, and is very useful for making 2D Game.|||
+|RPGMaker||||
 
 
 ### Riddle School UI
 ![An image of Riddle School 1.](https://i.ytimg.com/vi/kzOGc5xkGIU/maxresdefault.jpg "Riddle School 1")
+
