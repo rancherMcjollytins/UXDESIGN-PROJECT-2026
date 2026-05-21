@@ -148,3 +148,11 @@ https://creativecommons.org/
 ### Riddle School UI
 ![An image of Riddle School 1.](https://i.ytimg.com/vi/kzOGc5xkGIU/maxresdefault.jpg "Riddle School 1")
 
+# Final Evaluation
+In terms of social, ethical and legal responsibilities, I neglected my focus on the legal and ethical fields of the program (mainly as they did not come up during development).
+
+Against my requirements, while I did manage basic user movement and UI navigation, due to mismanaged time, I ended up not finishing some aspects of prototype 3 on time, which mainly consisted of the actual book entries. While I did create the book entries, I unfortunately did not have time to create each individual entry and give them custom text. This has a severe impact on the program, as the purpose of it is to show the LOTR story in an interactive manner, and without entries, it can not show the story. 
+
+I did not add proper world boundaries, and the closest I had to them were unnavigable terrain parts that players could not traverse.
+
+My main menu was lackluster, missing core features like settings/quit. It did allow for scene navigation into the game, and the pause menu allowed for navigation back to the main menu.
